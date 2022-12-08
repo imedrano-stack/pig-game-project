@@ -14,4 +14,4 @@ This project is a game that when one player reach 100 points wins. The player ha
 
 - Set a new game whenever you want
 
-Site url:
+Site url: https://piggame-ivanmedrano.netlify.app/
